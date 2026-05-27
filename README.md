@@ -3,7 +3,8 @@
 Repositório com exercícios práticos de lógica de programação,
 resolvidos em Java, com o objetivo de consolidar fundamentos
 de desenvolvimento. Fique a vontade de quiser fazer o mesmo. 
-
+Lembrando, que todas as atividades aqui não reforçam a revisão do conceito de POO. 
+É uma atividade básica, buscando rever conceitos de lógica de programação. 
 ---
 
 ## 🛠️ Tecnologias
@@ -27,12 +28,12 @@ git clone https://github.com/seu-usuario/logica-de-programacao.git
 ## 📝 Lista de Exercícios
 
 | # | Descrição | Status |
-|---|-----------|-------|
+|---|-----------|----|
 | 01 | Soma de A e B e comparação com C | ✅ |
-| 02 | Número par/ímpar e positivo/negativo | ⬜ |
-| 03 | Soma ou multiplicação conforme igualdade | ⬜ |
-| 04 | Antecessor e sucessor de um número | ⬜ |
-| 05 | Cálculo de salários mínimos | ⬜ |
+| 02 | Número par/ímpar e positivo/negativo | ✅ |
+| 03 | Soma ou multiplicação conforme igualdade | ✅ |
+| 04 | Antecessor e sucessor de um número | ✅ |
+| 05 | Cálculo de salários mínimos | ✅ |
 | 06 | Reajuste de 5% sobre um valor | ⬜ |
 | 07 | Verificação de valores booleanos | ⬜ |
 | 08 | Três valores em ordem decrescente | ⬜ |

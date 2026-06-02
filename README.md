@@ -28,17 +28,17 @@ git clone https://github.com/seu-usuario/logica-de-programacao.git
 ## 📝 Lista de Exercícios
 
 | # | Descrição | Status |
-|---|-----------|----|
+|---|-----------|--|
 | 01 | Soma de A e B e comparação com C | ✅ |
 | 02 | Número par/ímpar e positivo/negativo | ✅ |
 | 03 | Soma ou multiplicação conforme igualdade | ✅ |
 | 04 | Antecessor e sucessor de um número | ✅ |
 | 05 | Cálculo de salários mínimos | ✅ |
-| 06 | Reajuste de 5% sobre um valor | ⬜ |
-| 07 | Verificação de valores booleanos | ⬜ |
-| 08 | Três valores em ordem decrescente | ⬜ |
-| 09 | Cálculo de IMC | ⬜ |
-| 10 | Média de três notas | ⬜ |
+| 06 | Reajuste de 5% sobre um valor | ✅ |
+| 07 | Verificação de valores booleanos | ✅ |
+| 08 | Três valores em ordem decrescente | ✅ |
+| 09 | Cálculo de IMC | ✅ |
+| 10 | Média de três notas | ✅ |
 | 11 | Média com aprovação/reprovação | ⬜ |
 | 12 | Formas de pagamento com desconto | ⬜ |
 | 13 | Maior ou menor de idade | ⬜ |
@@ -60,5 +60,5 @@ git clone https://github.com/seu-usuario/logica-de-programacao.git
 
 ## 👤 Autor
 
-Feito por **Seu Nome**  
-[GitHub](https://github.com/seu-usuario)
+Feito por **André Jotta**  
+[GitHub](https://github.com/CAndre03)

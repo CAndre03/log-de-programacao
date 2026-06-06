@@ -39,11 +39,11 @@ git clone https://github.com/seu-usuario/logica-de-programacao.git
 | 08 | Três valores em ordem decrescente | ✅ |
 | 09 | Cálculo de IMC | ✅ |
 | 10 | Média de três notas | ✅ |
-| 11 | Média com aprovação/reprovação | ⬜ |
-| 12 | Formas de pagamento com desconto | ⬜ |
-| 13 | Maior ou menor de idade | ⬜ |
-| 14 | Troca de valores entre variáveis | ⬜ |
-| 15 | Idade em anos, meses e dias | ⬜ |
+| 11 | Média com aprovação/reprovação | ✅ |
+| 12 | Formas de pagamento com desconto | ✅ |
+| 13 | Maior ou menor de idade | ✅ |
+| 14 | Troca de valores entre variáveis | ✅ |
+| 15 | Idade em anos, meses e dias | ✅ |
 | 16 | Tipo de triângulo | ⬜ |
 | 17 | Conversão Fahrenheit para Celsius | ⬜ |
 | 18 | Francisco e Sara — crescimento | ⬜ |

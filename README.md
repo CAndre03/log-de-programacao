@@ -2,9 +2,18 @@
 
 Repositório com exercícios práticos de lógica de programação,
 resolvidos em Java, com o objetivo de consolidar fundamentos
-de desenvolvimento. Fique a vontade de quiser fazer o mesmo. 
-Lembrando, que todas as atividades aqui não reforçam a revisão do conceito de POO. 
-É uma atividade básica, buscando rever conceitos de lógica de programação. 
+de desenvolvimento. Fique à vontade se quiser fazer o mesmo.
+
+> ⚠️ As atividades aqui não abordam conceitos de POO.
+> É uma revisão básica de lógica de programação.
+
+---
+
+## 📋 Fonte dos Exercícios
+
+Lista original disponível em:
+[DIO — Lista de Exercícios para treinar Lógica de Programação](https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao)
+
 ---
 
 ## 🛠️ Tecnologias
@@ -18,7 +27,7 @@ Lembrando, que todas as atividades aqui não reforçam a revisão do conceito de
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/logica-de-programacao.git
+git clone https://github.com/CAndre03/logica-de-programacao.git
 ```
 2. Abra no IntelliJ IDEA
 3. Execute o arquivo desejado clicando no botão ▶️
@@ -28,7 +37,7 @@ git clone https://github.com/seu-usuario/logica-de-programacao.git
 ## 📝 Lista de Exercícios
 
 | # | Descrição | Status |
-|---|-----------|--|
+|---|-----------|--------|
 | 01 | Soma de A e B e comparação com C | ✅ |
 | 02 | Número par/ímpar e positivo/negativo | ✅ |
 | 03 | Soma ou multiplicação conforme igualdade | ✅ |
@@ -44,15 +53,15 @@ git clone https://github.com/seu-usuario/logica-de-programacao.git
 | 13 | Maior ou menor de idade | ✅ |
 | 14 | Troca de valores entre variáveis | ✅ |
 | 15 | Idade em anos, meses e dias | ✅ |
-| 16 | Tipo de triângulo | ⬜ |
-| 17 | Conversão Fahrenheit para Celsius | ⬜ |
-| 18 | Francisco e Sara — crescimento | ⬜ |
-| 19 | Tabuada de 1 até 10 | ⬜ |
-| 20 | Tabuada de um número informado | ⬜ |
-| 21 | Valor aleatório entre 0 e 100 | ⬜ |
-| 22 | Quociente e resto da divisão | ⬜ |
-| 23 | Salário líquido do professor | ⬜ |
-| 24 | Litros de combustível na viagem | ⬜ |
+| 16 | Tipo de triângulo | ✅ |
+| 17 | Conversão Fahrenheit para Celsius | ✅ |
+| 18 | Francisco e Sara — crescimento | ✅ |
+| 19 | Tabuada de 1 até 10 | ✅ |
+| 20 | Tabuada de um número informado | ✅ |
+| 21 | Valor aleatório entre 0 e 100 | ✅ |
+| 22 | Quociente e resto da divisão | ✅ |
+| 23 | Salário líquido do professor | ✅ |
+| 24 | Litros de combustível na viagem | ✅ |
 
 > ⬜ Pendente — ✅ Concluído
 
